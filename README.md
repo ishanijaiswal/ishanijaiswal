@@ -40,8 +40,8 @@ Hi there! Welcome to my GitHub profile. I'm Ishani Jaiswal, a passionate web dev
 
 ## 📫 Contact Me
 
-- Email: [ishani.jaiswal@example.com](mailto:ishani.jaiswal@example.com)
-- LinkedIn: [linkedin.com/in/ishanijaiswal](https://www.linkedin.com/in/ishanijaiswal)
+- Email: [ishanijais2002@gmail.com](mailto:ishanijais2002@gmail.com)
+- LinkedIn:[https://www.linkedin.com/in/ishanijaiswal](https://www.linkedin.com/in/ishani-jaiswal-0893b32b9)
 
 ---
 
